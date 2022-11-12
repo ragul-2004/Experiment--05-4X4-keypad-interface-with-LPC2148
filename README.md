@@ -1,8 +1,8 @@
 ## Experiment--05-4X4-keypad-interface-with-LPC2148
 
-### Name : Anto Richard. S
+### Name : Ragul A C
 
-### Roll no : 212221240005
+### Roll no : 212221240042
  
 ### Interfacing a 4X4 keypad LPC2148 ARM 7 Microcontroller 
 
